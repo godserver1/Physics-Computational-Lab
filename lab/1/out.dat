@@ -1,0 +1,25 @@
+provide no of unknowns
+provide elements in matrix
+
+
+
+! Lab No: 1
+! Title: Gaussian elemination
+! Date: 8/8/2017
+! Name: Oksiya Ayush Puranlal
+! Roll No: 150121028
+! Email: p.oksiya@iitg.ernet.in
+
+Given matrix: 
+2.540000 1.300000 2.100000 4.400000 
+0.000020 1.500000 4.300000 3.330000 
+3.100000 6.100000 14.200000 7.220000 
+
+upper triangular matrix: 
+3.10 6.10 14.20 7.22 
+0.00 1.50 4.30 3.33 
+0.00 0.00 1.07 6.69 
+
+X[1] = 4.62
+X[2] = -15.78
+X[3] = 6.28
